@@ -363,7 +363,13 @@ float: right;
     .mobile-image>img{
         width: 100%;
     }
-    
+    .lower-half{
+        padding-bottom: 5rem;
+    }
+    .social-icons{
+        left: 40%;
+        transform: translateX(-30%);
+    }
 }
 
 @media screen and (max-width:380px){
